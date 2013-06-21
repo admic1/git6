@@ -1,0 +1,91 @@
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display);
+/* \\\\\\\\\\\\\\\\\    DEMO CODE   ///////////////////////////////// */
+applet, object, iframe, body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dd, dl, dt, li, ol, ul, fieldset, form, label, legend, caption, img, header, section {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+}
+
+.f-cs{
+    font-family: 'Cabin Sketch', cursive;
+    font-size: x-large;
+    color: #ff99ff;
+}
+
+#wrapper{
+    width: 100%;
+    background-image: url(./topback.png);
+    background-repeat: repeat-x;
+    padding-top: 100px;
+}
+
+#mainView{
+
+}
+
+#topH1{
+    text-align: center;
+    color: #ff99ff;
+}
+
+#howtouseList{
+    width: 520px;
+    margin: 0 auto;
+}
+
+.howtouseListItem{
+
+}
+
+#countAll{
+    text-align: center;
+}
+
+#countUniq{
+    text-align: center;
+}
+
+
+#mainWidgetList{
+    width: 710px;
+    height: 380px;
+    margin: 0 auto;
+}
+.mainWidgetListItem{
+    width: 352px;
+    float: left;
+}
+
+
+#mainImage{
+    width: 410px;
+    margin: 0 auto;
+}
+
+#mainImageItem{
+    width: 410px;
+    height: 550px;
+}
+
+.modal p {
+    font-size: 14px;
+    text-align: left;
+    margin: 10px 0 0;
+}
+.modal p:hover {
+    cursor: pointer;
+}
+
+footer{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+#footerMessage{
+    margin: 15px 0;
+}
+
+.clearfix{
+    clear: both;
+}
